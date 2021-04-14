@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-link-manager",
+  "version": "1.0.0",
+  "description": "Gerenciador de links para o WhatsApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuscsouza/whatsapp-link-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciuscsouza/whatsapp-link-manager/issues"
+  },
+  "homepage": "https://github.com/viniciuscsouza/whatsapp-link-manager#readme",
+  "devDependencies": {
+    "electron": "^12.0.4"
+  }
+}
